@@ -348,6 +348,14 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Challenge 1/Scripts/FollowPlayerX.cs"
+"Assets/Challenge 1/Scripts/PlayerControllerX.cs"
+"Assets/Challenge 1/Scripts/PropellerRotation.cs"
+"Assets/Scripts/BlueCar.cs"
+"Assets/Scripts/Camera.cs"
+"Assets/Scripts/Enemy.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/RedPlane.cs"
 "Assets/Scripts/StartButton.cs"
 -langversion:9.0
 
